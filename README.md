@@ -2,7 +2,8 @@
 
 **Local Query Difference Distillation for Dense Aerial Object Detection**
 
-Yanting Hu, Qinyong Zeng, and Jiahao Wen  
+Yanting Hu, Qinyong Zeng, Jiahao Wen, and Wei Liu
+
 School of Aeronautics and Astronautics, University of Electronic Science and Technology of China  
 Corresponding author: Qinyong Zeng — qyzeng@uestc.edu.cn
 
@@ -96,7 +97,7 @@ For degraded-image predictions, use `--condition down2`, `down4`, `blur1`, or `b
 ```bibtex
 @misc{hu2026querydiff,
   title={Local Query Difference Distillation for Dense Aerial Object Detection},
-  author={Hu, Yanting and Zeng, Qinyong and Wen, Jiahao},
+  author={Hu, Yanting and Zeng, Qinyong and Wen, Jiahao and Liu, Wei},
   year={2026},
   howpublished={\url{https://github.com/huhufrfr186-spec/QueryDiff}}
 }
@@ -105,3 +106,7 @@ For degraded-image predictions, use `--condition down2`, `down4`, `blur1`, or `b
 ## Acknowledgments
 
 QueryDiff uses RT-DETRv4, CLIP, AnyUp, and the VisDrone evaluation toolkit. Attribution and license information are provided in [Third-party notices](THIRD_PARTY_NOTICES.md).
+
+## Rights
+
+Copyright © 2026 QueryDiff authors. All rights reserved for the original QueryDiff code. Public availability does not grant permission to use, modify, or redistribute that code. See [LICENSE](LICENSE). Third-party components retain their respective licenses and notices.

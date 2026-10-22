@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Please cite QueryDiff using the metadata in this file."
+type: software
+title: "QueryDiff: Local Query Difference Distillation for Dense Aerial Object Detection"
+authors:
+  - family-names: Hu
+    given-names: Yanting
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+  - family-names: Zeng
+    given-names: Qinyong
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+  - family-names: Wen
+    given-names: Jiahao
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+  - family-names: Liu
+    given-names: Wei
+    affiliation: "School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu 611731, China"
+contact:
+  - family-names: Zeng
+    given-names: Qinyong
+    email: qyzeng@uestc.edu.cn
+version: 1.0.0
+date-released: "2026-10-22"
+repository-code: "https://github.com/huhufrfr186-spec/QueryDiff"
+url: "https://github.com/huhufrfr186-spec/QueryDiff"
+license-url: "https://github.com/huhufrfr186-spec/QueryDiff/blob/v1.0.0/LICENSE"
+abstract: "QueryDiff transfers object-level relative structure from a frozen visual teacher to the final prediction queries of an aerial detector. Absolute object anchoring constrains individual fitting errors, while local vector differences couple neighboring query errors within teacher patches. Energy-repeatability weights allocate the difference supervision. Teacher networks and distillation projections are used during training; inference uses the detector alone."
+keywords:
+  - aerial object detection
+  - knowledge distillation
+  - remote sensing
+  - query-based object detection

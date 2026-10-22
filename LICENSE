@@ -1,0 +1,17 @@
+Copyright (c) 2026 QueryDiff authors.
+All rights reserved.
+
+The original QueryDiff source code and accompanying original documentation are
+made publicly available for inspection, scholarly citation, and archival
+preservation. No license to use, modify, reproduce, redistribute, sublicense,
+or create derivative works of these materials is granted, except as required
+for the hosting and archival services through which the authors publish them
+or as otherwise permitted by applicable law. Any other permission must be
+obtained from the respective rights holders.
+
+This notice does not apply to third-party components, pretrained weights, or
+datasets. Those materials remain governed by their respective licenses and
+terms. Third-party copyright notices and license texts are retained in their
+respective directories and are described in THIRD_PARTY_NOTICES.md.
+
+Correspondence: Qinyong Zeng <qyzeng@uestc.edu.cn>.
