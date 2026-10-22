@@ -20,6 +20,7 @@ contact:
     given-names: Qinyong
     email: qyzeng@uestc.edu.cn
 version: 1.0.0
+doi: "10.5281/zenodo.23557868"
 date-released: "2026-10-22"
 repository-code: "https://github.com/huhufrfr186-spec/QueryDiff"
 url: "https://github.com/huhufrfr186-spec/QueryDiff"
